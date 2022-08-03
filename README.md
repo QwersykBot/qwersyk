@@ -1,5 +1,3 @@
 # qwersyk
-<img src="./social.svg" width="128"/>
-
-![Status](./status.svg)
-![Status](./social.svg)
+<img src="./social.svg" width="20%"/>
+<img src="./status.svg" width="20%"/>
